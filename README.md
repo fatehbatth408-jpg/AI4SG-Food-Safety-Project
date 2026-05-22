@@ -46,3 +46,14 @@ This showed that image recognition can have trouble with cases that are close to
 Before any food is allowed to be distributed, it should be looked over by people. The AI should help workers, not take their place.
 
 We agreed that all high-risk and medium-risk items should have to be inspected by hand. This makes it less likely that food that isn't safe will be given out, but it takes longer to sort and needs more worker time.
+
+## Screenshots
+
+### Gemini API Setup
+<img width="1901" height="384" alt="Screenshot 2026-05-22 at 12 36 28 AM" src="https://github.com/user-attachments/assets/56b9c116-22fa-47a4-90a8-46683d644cc1" />
+
+### Structured AI Output
+<img width="1883" height="1046" alt="Screenshot 2026-05-22 at 12 37 58 AM" src="https://github.com/user-attachments/assets/2f395a14-1327-454f-9a6f-6b01fef3d897" />
+
+### Food Safety Image Analysis
+<img width="1831" height="955" alt="Screenshot 2026-05-22 at 12 39 36 AM" src="https://github.com/user-attachments/assets/7b2778be-471b-43cb-a057-eb5126face11" />
