@@ -4,12 +4,12 @@
 
 Every day, a lot of food banks and donation places get food that is broken or out of date. A lot of the time, volunteers have to quickly decide if food is safe, not safe, or needs more testing. This is hard to do when there are a lot of gifts but not enough trained workers.
 
-Our project's main goal is to make it easier for food bank workers in San Jose to find donated food that might not be safe faster. Maria is a specific user. She is a volunteer who sorts given food during times when there are a lot of donations. At the moment, the failure point is when helpers are too busy or don't know what to do and miss damaged cans or expired goods.
+My project's main goal is to make it easier for food bank workers in San Jose to find donated food that might not be safe faster. Maria is a specific user. She is a volunteer who sorts given food during times when there are a lot of donations. At the moment, the failure point is when helpers are too busy or don't know what to do and miss damaged cans or expired goods.
 
 
 ## AI Capability
 
-The Gemini API is used for image recognition and organized data extraction in our project. These AI skills are useful for the job because they let the system look at pictures of food items that people share and find damage, concerns about when they will go bad, and safety risks.
+The Gemini API is used for image recognition and organized data extraction in my project. These AI skills are useful for the job because they let the system look at pictures of food items that people share and find damage, concerns about when they will go bad, and safety risks.
 
 We used the same AI skills that we worked on in Labs 2 and 3. What the AI does is help organize written and visual information into safety tips that workers can quickly understand.
 
